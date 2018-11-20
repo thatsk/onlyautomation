@@ -1,16 +1,21 @@
 # Ansible
 A collaborative curated list of awesome Ansible resources
 
+[<img src="ansible_logo.svg" align="right" width="90">](https://www.ansible.com/)
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 ## Contents
 
-- [Books](#books)
-- [Tools](#tools)
-- [Roles](#roles)
-- [Playbooks](#playbooks)
-- [BlogsPosts & Opinions] (#Blogs&Opinions)
-- [Videos]   (#videos)
+- [Ansible](#ansible)
+    - [Contents](#contents)
+    - [Books](#books)
+    - [Roles](#roles)
+    - [Playbooks](#playbooks)
+    - [Tools](#tools)
+    - [blogposts--opinions](#blogposts--opinions)
+    - [Tutorial](#tutorial)
+    - [Videos](#videos)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 ---
@@ -86,8 +91,7 @@ A collaborative curated list of awesome Ansible resources
 - [Packer  Ansible Provisioner](https://www.packer.io/docs/provisioners/ansible-local.html) - This Provisioner can be used to automate VM Image Creation via Packer with Ansible.
 - [Excel Ansible Inventory](https://github.com/KeyboardInterrupt/ansible_xlsx_inventory) - Turn any Excel Spreadsheet into an Ansible Inventory
 
-
-## BlogPosts & Opinions
+## blogposts--opinions
 
 > Important links and blogs
 
@@ -114,12 +118,11 @@ A collaborative curated list of awesome Ansible resources
 
 - [Ansible Tutorials on DigitalOcean](https://www.digitalocean.com/community/tags/ansible?type=tutorials) - Some basic tutorials on DigitalOcean.com
 - [Ansible Tutorial by leucos](https://github.com/leucos/ansible-tuto) - 12 Step Tutorial for Ansible
-- [Programming Community Curated Resources for learning Ansible](https://hackr.io/tutorials/learn-ansible) - A list of recommended resources.
+- [Programming Community Curated Resources for learning Ansible](https://hackr.io/tutorials/learn-ansible) 
 
 ## Videos
 
+> Videos Related to Ansible
 
 [Ansible YouTube Channel](https://www.youtube.com/channel/UCeImQ-jeVhzgLJd9wsqo8Sg/videos) - Official Ansible YouTube channel
 [Introduction to Ansible](https://www.youtube.com/watch?v=iVWmbStE1MM) - Introduction to Ansible
-
-
