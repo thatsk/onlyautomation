@@ -1,5 +1,8 @@
 # Ansible
-A collaborative curated list of awesome Ansible resources
+
+> A collaborative curated list of Ansible resources, tools, Roles, tutorials, Videos & more Stuff.
+
+Ansible is an open source toolkit, written in Python, it is used for Configuration Management, Application Deployment, Continuous Delivery, IT infrastructure automation and automation in general.
 
 [<img src="ansible_logo.svg" align="right" width="90">](https://www.ansible.com/)
 
