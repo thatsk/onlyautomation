@@ -2,6 +2,9 @@
 
 Your pull requests are very welcome! Let's make this the resource for Puppet!
 
+[<img src="puppet.svg" align="right" width="90">](https://puppet.com/)
+
+
 - [Integrated Development Enviroments](#integrated-development-enviroments)
 - [Documentation](#documentation)
 - [Module Management](#module-management)
