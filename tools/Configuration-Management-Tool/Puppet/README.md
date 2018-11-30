@@ -12,7 +12,7 @@ Your pull requests are very welcome! Let's make this the resource for Puppet!
 - [Testing](#testing)
 - [Puppet Tools](#puppet-tools)
 - [Learning Resources](#learning)
-
+- [Blogs](#Blogs)
 
 ## Integrated Development Enviroments
 
@@ -71,9 +71,9 @@ Your pull requests are very welcome! Let's make this the resource for Puppet!
 > Resources for new puppet users
 - [Puppet Learning VM](https://puppet.com/download-learning-vm) A simple VM that gives you a set of challenges to learn puppet by doing
 
+## Blogs
+> [Puppet Related Stuffs](https://rnelson0.com/)
 
-
-Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
 
 ## Contributing
 
