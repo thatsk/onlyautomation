@@ -73,7 +73,7 @@ Your pull requests are very welcome! Let's make this the resource for Puppet!
 
 ## Blogs
 > [Puppet Related Stuffs](https://rnelson0.com/)
-> [PuppetBolt](https://github.com/puppetlabs/tasks-hands-on-lab/blob/master/README.md)
+
 ## Contributing
 
 Your contributions are always welcome!
